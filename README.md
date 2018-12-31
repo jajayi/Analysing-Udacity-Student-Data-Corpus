@@ -1,4 +1,4 @@
-# Analysing-Udacity-Student-Data-Corpus
+# Analysing-Udacity-Student-Data
 
 In this study I investigate the question : How do numbers in the daily engagement table differ for students who pass the first project?
 
